@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Keyn1991/test-task-to-incode/static/css/main.f7641ab4.css",
-    "main.js": "/Keyn1991/test-task-to-incode/static/js/main.091626f0.js",
-    "index.html": "/Keyn1991/test-task-to-incode/index.html",
-    "main.f7641ab4.css.map": "/Keyn1991/test-task-to-incode/static/css/main.f7641ab4.css.map",
-    "main.091626f0.js.map": "/Keyn1991/test-task-to-incode/static/js/main.091626f0.js.map"
+    "main.css": "/test-task-to-incode/static/css/main.f7641ab4.css",
+    "main.js": "/test-task-to-incode/static/js/main.091626f0.js",
+    "index.html": "/test-task-to-incode/index.html",
+    "main.f7641ab4.css.map": "/test-task-to-incode/static/css/main.f7641ab4.css.map",
+    "main.091626f0.js.map": "/test-task-to-incode/static/js/main.091626f0.js.map"
   },
   "entrypoints": [
     "static/css/main.f7641ab4.css",
