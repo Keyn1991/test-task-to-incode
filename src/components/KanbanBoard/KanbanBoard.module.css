@@ -1,0 +1,28 @@
+
+.kanban_board {
+    padding: 16px;
+}
+
+.kanban_card {
+    margin-bottom: 16px;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 16px;
+    transition: transform 0.3s ease;
+}
+.kanban_card:hover {
+    transform: translateY(-4px);
+}
+
+.kanban-card-button {
+    margin-top: 8px;
+}
+
+.kanban_button {
+    margin: 5px
+}
+
+.main {
+    background: aqua;
+}
